@@ -1,3 +1,5 @@
 hello 
 
-learning and devloping 
+This is my second repo 
+
+Author is <b>Akshit </b>
